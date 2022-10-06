@@ -6,7 +6,6 @@
         "email": "admin@lectrum.io",
         "name": "Lectrum Team"
     },
-    "license": "MIT",
     "scripts": {
         "dev": "react-scripts start",
         "build": "react-scripts build",
